@@ -2,7 +2,7 @@ clc
 close all
 clear all
 
-% MDM, LTV, Example TAC
+% MDM, LTV, Example TAES
 
 rng(0) % R2019b
 
