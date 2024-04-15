@@ -11,9 +11,11 @@ More details can be found in article [1], [2]
 
 > [1] Duník, J., Kost, O., and Straka, O. (2018). Design of measurement difference autocovariance method for estimation of process and measurement noise covariances.
 Automatica, 90, 16--24.
+> 
 > [2] Kost, O., Duník, J., and Straka, O. (2023).
 Measurement difference method: A universal tool for noise identification.
 IEEE Transactions on Automatic Control, 68(3), 1792--1799.
+> 
 > [3] Kost, O., Duník, J., and Straka, O. (2024).
 Noise Covariances Identification by MDM: Weighting, Recursion, and Implementation.
 Submitted to the 20th IFAC Symposium on System Identification (SYSID) 2024.
